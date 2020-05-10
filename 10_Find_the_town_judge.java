@@ -1,3 +1,4 @@
+//O(N) solution space complexity O(N)
 class Solution {
     public int findJudge(int N, int[][] trust) {
         int len=trust.length;
